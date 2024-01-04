@@ -1,0 +1,14 @@
+2023-Nov-11 08:43:39,152 [main] com.StepDefinitions.TestCaseStepDefinitions 
+  ERROR Title is =Falcon 9
+2023-Nov-11 08:43:39,221 [main] com.StepDefinitions.TestCaseStepDefinitions 
+  INFO  Product Price is: 50.00€
+2023-Nov-11 08:43:39,271 [main] com.StepDefinitions.TestCaseStepDefinitions 
+  INFO  Product Price is: 
+2023-Nov-11 08:43:59,264 [main] com.StepDefinitions.TestCaseStepDefinitions 
+  INFO  Thank you. Your order has been received.	
+2023-Nov-11 08:43:59,415 [main] com.StepDefinitions.TestCaseStepDefinitions 
+  INFO  Order number is: 5730
+2023-Nov-11 08:43:59,509 [main] com.StepDefinitions.TestCaseStepDefinitions 
+  INFO  Date is: November 11, 2023
+2023-Nov-11 08:43:59,680 [main] com.StepDefinitions.TestCaseStepDefinitions 
+  INFO  Total price is: 50.00€
