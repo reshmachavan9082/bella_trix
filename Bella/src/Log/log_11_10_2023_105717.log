@@ -1,0 +1,4 @@
+2023-Nov-10 10:57:17,092 [main] com.StepDefinitions.HomeStepDef 
+  ERROR Title is =Falcon 9
+2023-Nov-10 10:57:17,156 [main] com.StepDefinitions.HomeStepDef 
+  INFO  Product Price is: 50.00€

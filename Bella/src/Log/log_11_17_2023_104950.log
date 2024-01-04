@@ -1,0 +1,6 @@
+2023-Nov-17 10:49:49,951 [main] com.StepDefinitions.TestCaseStepDefinitions 
+  ERROR Title is =Falcon 9
+2023-Nov-17 10:49:49,982 [main] com.StepDefinitions.TestCaseStepDefinitions 
+  INFO  Product Price is: 50.00€
+2023-Nov-17 10:49:50,006 [main] com.StepDefinitions.TestCaseStepDefinitions 
+  INFO  Product Price is: 
